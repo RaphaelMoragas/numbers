@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PositiveFilterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T15:48:00" hostname="RAPHAEL" time="0.015">
+<testsuite name="PositiveFilterTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-10T22:34:36" hostname="RAPHAEL" time="0.016">
   <properties/>
-  <testcase name="Accrpt()" classname="PositiveFilterTest" time="0.015"/>
+  <testcase name="Accrpt2()" classname="PositiveFilterTest" time="0.014"/>
+  <testcase name="Accrpt3()" classname="PositiveFilterTest" time="0.0"/>
+  <testcase name="Accrpt()" classname="PositiveFilterTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
