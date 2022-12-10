@@ -8,7 +8,6 @@ public class PositiveFilterTest {
     boolean res;
 
 
-
     @Test
     public void Accrpt(){
         Integer testnumber = 10;

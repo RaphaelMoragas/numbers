@@ -9,7 +9,6 @@ public class ListFilterer {
         this.filter = filter;
     }
 
-
     public List<Integer> filter(List<Integer> list){
         List<Integer> res = new ArrayList<>();
         for(int i : list){
